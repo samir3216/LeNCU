@@ -32,3 +32,5 @@ MaxFrames 0
 ### Current issues
 * The whole thing is broken,i MEAN IT because first of all,there is no error holding so its too easy to make a error at the .cfg file,heading to fixes
 * It lags at some specific devices currently only runs good at 800mhz,128mb Ram CPU i need to optimize this..
+
+CODENAME : UIUI
